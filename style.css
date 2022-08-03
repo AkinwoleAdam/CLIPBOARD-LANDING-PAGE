@@ -15,7 +15,7 @@ body{
  /*---------HEADER SECTION---------*/
 
 header{
-  background:url("/images/bg-header-mobile.png");
+  background:url("bg-header-mobile.png");
   background-repeat: no-repeat;
   display:flex;
   flex-direction: column;
